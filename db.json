@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+	    "id": 1,
+	    "title": "iPhone XL",
+	    "price": 799,
+	    "description": "A large phone with one of the best screens",
+	    "slug":"phone-xl",
+	    "imgUrl":"assets/images/iphonexr.png"
+  	},
+  	 {
+	    "id": 2,
+	    "title": "iPhone 6",
+	    "price": 699,
+	    "description": "A great phone with one of the best cameras",
+	    "slug":"phone-6",
+	    "imgUrl":"assets/images/iphone6.jpg"
+  	},
+  	 {
+	    "id": 3,
+	    "title": "Samsung Galaxi",
+	    "price": 299,
+	    "description": "This is cheeper than iPhones",
+	    "slug":"samsung-galaxi",
+	    "imgUrl":"assets/images/samsung.png"
+  	},
+  	 {
+	    "id": 4,
+	    "title": "Souris Noire UT200",
+	    "price": 40,
+	    "description": "Souris UT200, ergonomie et précision",
+	    "slug":"souris-noire",
+	    "imgUrl":"assets/images/souris.jpg"
+  	},
+  	 {
+	    "id": 5,
+	    "title": "Souris Noire UT200",
+	    "price": 45,
+	    "description": "Souris UT200, ergonomie et précision",
+	    "slug":"souris-noire",
+	    "imgUrl":"assets/images/souris2.jpg"
+  	},
+  	 {
+	    "id": 6,
+	    "title": "Souris Noire UT200",
+	    "price": 50,
+	    "description": "Souris UT200, ergonomie et précision",
+	    "slug":"souris-noire",
+	    "imgUrl":"assets/images/souris.jpg"
+  	},
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
